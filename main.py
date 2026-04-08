@@ -26,7 +26,7 @@ def sources():
     print("1. Pagano, A., Croce, D., Tinnirello, I., & Vitale, G. (2023).\n\tA Survey on LoRa for Smart Agriculture: Current Trends and Future Perspectives.\n\tIEEE Internet of Things Journal, 10(4), 3664-3679.")
     print("2. Brooks, R. (2025, December 8).\n\tLiving Sensors Turn Soybeans into Fungal Disease Detectives. AgWeb.\n\thttps://www.agweb.com/news/crops/soybeans/living-sensors-turn-soybeans-fungal-disease-detectives")
     print("3. Xu, Y., Wang, L., Gao, Q., Zhao, W., Zhang, H., Lin, F., … He, J. (2026).\n\tEdge Collaboration-Enabled Online Energy Optimization for Satellite-Assisted Internet of Things:\n\tA Lyapunov-Based Learning Approach.\n\tIEEE Internet of Things Journal, 13(3), 3726–3742. doi:10.1109/JIOT.2025.3631071")
-    print("4. Field-Effect Transistor-Based Biosensors for Environmental and Agricultural Monitoring. (2022).\n\tSensors, 22(11), 4178. doi:10.3390/s22114178")
+    print("4. Elli, G., Hamed, S., Petrelli, M., Ibba, P., Ciocca, M., Lugli, P., & Petti, L. (2022).\n\tField-Effect Transistor-Based Biosensors for Environmental and Agricultural Monitoring. (2022).\n\tSensors, 22(11), 4178. doi:10.3390/s22114178")
     print("5. Wei, Z., Jia, J., Niu, Y., Wang, L., Wu, H., Yang, H., & Feng, Z. (2025).\n\tIntegrated Sensing and Communication Channel Modeling: A Survey.\n\tIEEE Internet of Things Journal, 12(12), 18850–18864. doi:10.1109/JIOT.2024.3449377B")
     print("6. Bogena, H. R., Weuthen, A., & Huisman, J. A. (2022).\n\tRecent Developments in Wireless Soil Moisture Sensing to Support Scientific Research and Agricultural Management.\n\tSensors, 22(24), 9792. https://doi.org/10.3390/s22249792")
     print()
