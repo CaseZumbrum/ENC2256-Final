@@ -51,10 +51,10 @@ if __name__ == "__main__":
                 jackal()
                 l[2] = 1
             case "4":
-                underground()
+                biosensor()
                 l[3] = 1
             case "5":
-                biosensor()
+                underground()
                 l[4] = 1
             case _:
                 print("Error: Incorrect choice!")
